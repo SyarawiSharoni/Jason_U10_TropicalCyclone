@@ -16,5 +16,5 @@
 % Column 8 = Liquid Water Content (LWC)
 % Column 9 = Water Vapor Content (WVC)
 %
-% Detail paper discussed this model is "Tropical cyclone wind speed estimation from the satellite altimeter derived ocean parameters - Syarawi Sharoni,2020"
+% Detail paper discussed this model is "Tropical cyclone wind speed estimation from the satellite altimeter derived ocean parameters - Syarawi Sharoni,2021"
 % Please cite the above paper. TQ. 
